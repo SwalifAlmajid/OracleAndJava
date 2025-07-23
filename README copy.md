@@ -1,5 +1,3 @@
 # OracleAndJava
 
-hppp
-ppppp
-ppp 
+hello my first kkkkkkkkkkkkkkkkkk 
